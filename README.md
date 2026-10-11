@@ -34,7 +34,7 @@ it to 0.887.
 - `model/`: training notebook with all outputs
 - `data_eval/`: evaluation work (charts, notes)
 - `app/`: demo app
-- Trained model (`lung_model.keras`): [Google Drive link]
+- Trained model (`lung_model.keras`): https://drive.google.com/file/d/1hXwMoe_Q_pM0Cl3-IE8pFq0OoY2u5RmL/view?usp=sharing
 
 ## Limitations
 One dataset, one random image-level split (possible near-duplicate
