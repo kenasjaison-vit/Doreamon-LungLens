@@ -4,9 +4,9 @@ AI-powered chest X-ray analysis that detects lung diseases and shows
 
 ## Team
 - Kenas Jaison (Team Lead, Model)
-- Member 2: ...
-- Member 3: ...
-- Member 4: ...
+- Member 2: Rithish Raja Suresh
+- Member 3: Vedanth Koneti
+- Member 4: Prakul Karthick B
 
 ## Project Structure
 - `notebooks/` – Kaggle training notebooks
